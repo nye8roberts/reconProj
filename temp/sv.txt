@@ -1,0 +1,16 @@
+# Nmap 7.80 scan initiated Fri Jun  5 14:11:32 2020 as: nmap -sV -oG - -p21 192.168.254.133
+Host: 192.168.254.133 ()	Status: Up
+Host: 192.168.254.133 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.3/
+# Nmap done at Fri Jun  5 14:11:33 2020 -- 1 IP address (1 host up) scanned in 0.49 seconds
+# Nmap 7.80 scan initiated Fri Jun  5 14:11:33 2020 as: nmap -sV -oG - -p22 192.168.254.133
+Host: 192.168.254.133 ()	Status: Up
+Host: 192.168.254.133 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/
+# Nmap done at Fri Jun  5 14:11:33 2020 -- 1 IP address (1 host up) scanned in 0.47 seconds
+# Nmap 7.80 scan initiated Fri Jun  5 14:11:33 2020 as: nmap -sV -oG - -p80 192.168.254.133
+Host: 192.168.254.133 ()	Status: Up
+Host: 192.168.254.133 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.29 ((Ubuntu))/
+# Nmap done at Fri Jun  5 14:11:40 2020 -- 1 IP address (1 host up) scanned in 6.51 seconds
+# Nmap 7.80 scan initiated Fri Jun  5 14:11:40 2020 as: nmap -sV -oG - -p3389 192.168.254.133
+Host: 192.168.254.133 ()	Status: Up
+Host: 192.168.254.133 ()	Ports: 3389/open/tcp//ms-wbt-server//xrdp/
+# Nmap done at Fri Jun  5 14:11:51 2020 -- 1 IP address (1 host up) scanned in 11.49 seconds
